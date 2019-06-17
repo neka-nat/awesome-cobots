@@ -45,6 +45,21 @@
 
 <img width=200 src=images/rozum_robotics.jpg />
 
+* Automata Eva [[Web Page](https://automata.tech/), [Github](https://github.com/automata-tech)]
+
+<img width=200 src=images/automata_eva.jpg />
+
+## End Effectors
+
+* Robotiq [[Web Page](https://robotiq.com/)]
+    * [robotiq](https://github.com/ros-industrial/robotiq) : Ros package for Robotiq
+
+<img width=200 src=images/robotiq.png />
+
+* OnRobot [[Web Page](https://onrobot.com)]
+
+<img width=200 src=images/onrobot.png />
+
 ## Libraries
 
 * [Moveit](https://github.com/ros-planning/moveit)
