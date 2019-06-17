@@ -64,7 +64,23 @@
 
 <img width=200 src=images/onrobot.png />
 
-## Libraries
+* Weiss Robotics [[Web Page](https://www.weiss-robotics.com/en/start-page/)]
+    * [wsg50-ros-pkg](https://github.com/nalt/wsg50-ros-pkg) : Ros package for wsg50
+
+<img width=200 src=images/wsg.jpg />
+
+## Visions
+
+* Intel Real Sense [[Web Page](https://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html?_ga=2.187247592.1547561943.1560781258-1946731545.1560781212), [Github](https://github.com/IntelRealSense)]
+
+<img width=200 src=images/real_sense.jpg />
+
+* Pickit [[Web page](https://www.pickit3d.com/)]
+    * [Documentation](http://docs.pickit3d.com/docs/pickit/en/latest/)
+
+<img width=200 src=images/pickit.png />
+
+## Motion Planning
 
 * [Moveit](https://github.com/ros-planning/moveit)
 * [Moveit2](https://github.com/ros-planning/moveit2)
