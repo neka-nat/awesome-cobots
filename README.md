@@ -49,6 +49,10 @@
 
 <img width=200 src=images/automata_eva.jpg />
 
+* Doosan Cobot [[Web Page](http://www.doosan.com/en/business/robotics/cooperation-robot/)]
+
+<img width=200 src=images/doosan_cobot.jpg />
+
 ## End Effectors
 
 * Robotiq [[Web Page](https://robotiq.com/)]
