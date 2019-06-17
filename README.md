@@ -1,6 +1,6 @@
-# Awesome Manipulators
+# Awesome Cobots
 
-## Manipulators
+## Cobots
 
 * Universal Robot [[Web Page](https://www.universal-robots.com/)]
     * [python-urx](https://github.com/SintefManufacturing/python-urx) : python interface
