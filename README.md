@@ -80,8 +80,22 @@
 
 <img width=200 src=images/pickit.png />
 
+* Solomon AccuPick 3D [[Web Page](https://www.solomon-3d.com/)]
+
+<img width=200 src=images/solomon_accupick.png />
+
 ## Motion Planning
 
 * [Moveit](https://github.com/ros-planning/moveit)
 * [Moveit2](https://github.com/ros-planning/moveit2)
+* [OMPL](https://github.com/ompl/ompl)
+* [teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner)
+* [gpmp2](https://github.com/gtrll/gpmp2) : Gaussian Process Motion Planner
 * [costar_stack](https://github.com/cpaxton/costar_stack)
+
+## Grasping
+
+* [GPD](https://github.com/atenpas/gpd)
+* [GPD2](https://github.com/atenpas/gpd2)
+* [VPG](https://github.com/andyzeng/visual-pushing-grasping)
+* [agile_grasp](https://github.com/atenpas/agile_grasp)
