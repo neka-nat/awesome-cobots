@@ -27,6 +27,11 @@
 
 <img width=200 src=images/denso_wave_cobotta.png />
 
+* Nextage [[Web Page](http://www.kawadarobot.co.jp/nextage/)]
+    * [rtmros_nextage](https://github.com/tork-a/rtmros_nextage) : ROS-OpenRTM-based controller
+
+<img width=200 src=images/nextage.jpg />
+
 * Elfin Cobot [[Web Page](http://www.hansrobots.eu/en/elfin-collaborative-robot-en), [Github](https://github.com/hans-robot)]
 
 <img width=400 src=images/elfin_cobot.jpg />
@@ -52,6 +57,14 @@
 * Doosan Cobot [[Web Page](http://www.doosan.com/en/business/robotics/cooperation-robot/)]
 
 <img width=200 src=images/doosan_cobot.jpg />
+
+* ESI CANARM [[Web Page](http://www.esit.com/industrial-arms/)]
+
+<img width=200 src=images/esi_canarm.png />
+
+* Hanwha HCR [[Web Page](https://www.hanwharobotics.com/)]
+
+<img width=300 src=images/hanwha_hcr.jpg />
 
 ## End Effectors
 
