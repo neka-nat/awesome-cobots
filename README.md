@@ -6,6 +6,7 @@
     * [python-urx](https://github.com/SintefManufacturing/python-urx) : python interface
     * [universal_robot](https://github.com/ros-industrial/universal_robot) : Ros package for universal robots
     * [ur_modern_driver](https://github.com/ros-industrial/ur_modern_driver) : Modern ur driver
+    * [Universal_Robots_ROS_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS_Driver) : UR driver from Universal Robot
 
 <img width=200 src=images/universal_robot.jpg />
 
