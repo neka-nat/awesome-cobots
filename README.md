@@ -102,10 +102,15 @@
 
 * [Moveit](https://github.com/ros-planning/moveit)
 * [Moveit2](https://github.com/ros-planning/moveit2)
+* [industrial_moveit](https://github.com/ros-industrial/industrial_moveit)
 * [OMPL](https://github.com/ompl/ompl)
 * [teb_local_planner](https://github.com/rst-tu-dortmund/teb_local_planner)
+* [trajopt](https://github.com/joschu/trajopt)
 * [gpmp2](https://github.com/gtrll/gpmp2) : Gaussian Process Motion Planner
+* [mpl_ros](https://github.com/sikang/mpl_ros)
+* [omg_tools](https://github.com/meco-group/omg-tools)
 * [costar_stack](https://github.com/cpaxton/costar_stack)
+* [rmp-core](https://github.com/rortiz9/rmp-ros/tree/master/rmp-core) : Riemannian Motion Policies
 
 ## Grasping
 
