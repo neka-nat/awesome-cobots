@@ -1,4 +1,5 @@
 # Awesome Cobots
+This page summarizes collaborative robots and the robot drivers or related software on github.
 
 ## Cobots
 
